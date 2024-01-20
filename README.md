@@ -26,7 +26,7 @@ representado por um conjunto de predicados descrevendo o estado atual do mundo, 
 4. **Definir metas**
    Defina as metas que você deseja alcançar (plan predicado) na área de consulta conforme o exemplo abaixo.
 
-5. Execute o planejador
+5. **Execute o planejador**
 
 
 ## :heavy_check_mark: Exemplo de Uso:
